@@ -1,3 +1,4 @@
+#02 Licencia
 def main():
 #escribe tu código abajo de esta línea
     edad = int(input("Ingresa tu edad: "))
@@ -23,4 +24,3 @@ def main():
 
 if __name__=='__main__':
     main()
-

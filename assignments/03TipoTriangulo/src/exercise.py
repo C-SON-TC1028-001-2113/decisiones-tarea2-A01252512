@@ -1,3 +1,4 @@
+#03 Triángulo
 def main():
     #escribe tu código abajo de esta línea
     x = int(input('Ingresa la medida del lado 1: '))
@@ -20,7 +21,6 @@ def main():
 
     else:
         print("NO ES TRIANGULO")
-
 
 if __name__=='__main__':
     main()
