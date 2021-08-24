@@ -1,5 +1,5 @@
 def main():
-    #escribe tu código abajo de esta línea
+#escribe tu código abajo de esta línea
     edad = int(input("Ingresa tu edad: "))
 
     if edad>=18:
